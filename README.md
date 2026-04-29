@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Surya-Srinidhi12/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
